@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name's Alex and I'm a software developer at Moving Intelligence Germany.
+This README will be completed at a later date, so stay tuned 😄
 <!--
 **curtisy1/curtisy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
